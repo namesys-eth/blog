@@ -9,8 +9,8 @@ Collection of blog posts by NameSys
 
 <div class="datatable-begin"></div>
 
-| Index | Title                                 | Data       | Link       |
-| ----- | ------------------------------------- | ---------- | ---------- |
-| 1     | Evolution of Namespaces                 | 2023-10-26 | [Link](https://blog.namesys.xyz/2023-10-26) |
+| Index | Title                                 | Data       | Author      | Link       |
+| ----- | ------------------------------------- | ---------- | ----------- | ---------- |
+| 1     | Evolution of Namespaces               | 2023-10-26 | N Choudhary | [2023-10-26](https://blog.namesys.xyz/2023-10-26) |
 
 <div class="datatable-end"></div>
