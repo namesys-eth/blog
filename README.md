@@ -1,3 +1,8 @@
+![](https://raw.githubusercontent.com/namesys-eth/ccip2-eth-resources/main/graphics/png/logo-small.png)
+&nbsp;
+
+# NameSys Blog Series
+
 Collection of blog posts by NameSys
 
 ## Index
