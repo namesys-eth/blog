@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/namesys-eth/ccip2-eth-resources/main/graphics/png/logo-small.png)
+![](https://raw.githubusercontent.com/namesys-eth/ccip2-eth-resources/main/graphics/png/logo-tiny.png)
 &nbsp;
 
 # NameSys Blog Series
