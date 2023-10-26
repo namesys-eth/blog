@@ -1,5 +1,7 @@
+<!---HEADER: DO NOT EDIT!-->
 ![](https://raw.githubusercontent.com/namesys-eth/ccip2-eth-resources/main/graphics/png/logo-tiny.png)
 &nbsp;
+<!---HEADER-->
 
 # NameSys Blog Series
 
