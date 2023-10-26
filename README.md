@@ -11,6 +11,6 @@ Collection of blog posts by NameSys
 
 | Index | Title                                 | Data       | Link       |
 | ----- | ------------------------------------- | ---------- | ---------- |
-| 1     | History of Namespaces                 | 2023-10-27 | -          |
+| 1     | Evolution of Namespaces                 | 2023-10-26 | [Link](https://blog.namesys.xyz/2023-10-26) |
 
 <div class="datatable-end"></div>
