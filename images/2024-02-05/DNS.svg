@@ -38,9 +38,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.44785584"
-     inkscape:cx="1098.5996"
-     inkscape:cy="607.84728"
+     inkscape:zoom="0.34753613"
+     inkscape:cx="1020.9098"
+     inkscape:cy="866.81316"
      inkscape:window-width="1440"
      inkscape:window-height="752"
      inkscape:window-x="0"
@@ -95,13 +95,13 @@
        ry="2.3013294" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.77139px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.729336;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.77139000000000024px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.729336;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;"
        x="130.80273"
        y="42.815796"
        id="text15"><tspan
          sodipodi:role="line"
          id="tspan15"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.729337;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.729337;stroke-opacity:1;"
          x="130.80273"
          y="42.815796">User input</tspan></text>
     <text
@@ -216,7 +216,7 @@
        d="m 257.5897,389.21762 c -0.36493,18.17801 -0.36493,17.99554 -0.36493,17.99554"
        id="path23-4-3-7-7-0" />
     <rect
-       style="opacity:0.666667;fill-opacity:1;stroke:#000000;stroke-width:1.585;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;fill:none"
+       style="opacity:0.666667;fill-opacity:1;stroke:#000000;stroke-width:0.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;fill:none;stroke-miterlimit:4"
        id="rect24"
        width="393.19479"
        height="487.55719"
@@ -237,111 +237,112 @@
        transform="translate(-0.95512348,71.763591)" />
     <g
        id="g896"
-       transform="translate(0,-3.1269679)">
+       transform="translate(0,-3.1269679)"
+       style="opacity:1;stroke-width:0.716;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.41538px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.699734;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.41538000000000075px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.716;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stroke-miterlimit:4"
          x="132.13686"
          y="100.37193"
          id="text15-8"><tspan
            sodipodi:role="line"
            id="tspan15-9"
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.699735;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.716;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            x="132.13686"
            y="100.37193">dns query</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.41538px;line-height:1;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.699735;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.41538000000000075px;line-height:1;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.716;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stroke-miterlimit:4"
          x="136.6864"
          y="114.03788"
          id="text26"><tspan
            sodipodi:role="line"
            id="tspan26"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.699735;stroke-dasharray:none"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.716;stroke-dasharray:none;stroke-miterlimit:4;stroke:#000000;stroke-opacity:1"
            x="136.6864"
            y="114.03788">initiation</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.6101px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.715925;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61009999999999920px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.716;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stroke-miterlimit:4"
        x="122.05095"
        y="165.12881"
        id="text27"><tspan
          sodipodi:role="line"
          id="tspan27"
-         style="stroke-width:0.715926"
+         style="stroke-width:0.716;stroke-miterlimit:4;stroke-dasharray:none"
          x="122.05095"
          y="165.12881">dns recursor</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.49073px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.705999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.49072999999999922px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.705999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
        x="112.82068"
        y="224.38902"
        id="text28"><tspan
          sodipodi:role="line"
          id="tspan28"
-         style="stroke-width:0.706001"
+         style="stroke-width:0.706001;"
          x="112.82068"
          y="224.38902">root nameserver</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.17334px;line-height:1.4;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.679608;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.17333999999999961px;line-height:1.4;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.679608;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
        x="125.85712"
        y="278.25473"
        id="text29"><tspan
          sodipodi:role="line"
          id="tspan29"
-         style="stroke-width:0.67961"
+         style="stroke-width:0.67961;"
          x="125.85712"
          y="278.25473">authoritative</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.67961"
+         style="stroke-width:0.67961;"
          x="125.85712"
          y="289.69742"
          id="tspan890"> Nameserver</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36189px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.695286;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36189000000000071px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.695286;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
        x="297.04434"
        y="224.32585"
        id="text30"><tspan
          sodipodi:role="line"
          id="tspan30"
-         style="stroke-width:0.695287"
+         style="stroke-width:0.695287;"
          x="297.04434"
          y="224.32585">tld nameserver</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.30681px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.690706;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.30681000000000047px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.690706;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
        x="286.12665"
        y="284.013"
        id="text31"><tspan
          sodipodi:role="line"
          id="tspan31"
-         style="stroke-width:0.690707"
+         style="stroke-width:0.690707;"
          x="286.12665"
          y="284.013">ip address retrieval</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.35843px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.778147;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.35843000000000025px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.778147;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
        x="186.74602"
        y="361.31989"
        id="text32"><tspan
          sodipodi:role="line"
          id="tspan32"
-         style="stroke-width:0.778148"
+         style="stroke-width:0.778148;"
          x="186.74602"
          y="361.31989">dns recursor response</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96647px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.666667;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.745557;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="209.36351"
-       y="442.19949"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4611px;line-height:1000;font-family:SPOTNIK;-inkscape-font-specification:'SPOTNIK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.869834;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="201.35054"
+       y="442.78473"
        id="text33"><tspan
          sodipodi:role="line"
          id="tspan33"
-         style="stroke-width:0.745558"
-         x="209.36351"
-         y="442.19949">webpage loading</tspan></text>
+         style="stroke-width:0.869835"
+         x="201.35054"
+         y="442.78473">webpage loading</tspan></text>
   </g>
 </svg>
